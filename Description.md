@@ -1,0 +1,1 @@
+By default, Zoom breaks each person's speech up every set amount of time. This results in pages of transcript for a few sentences of actual transcribed text. This Notebook file searches for all .txt files in a directory, and combines adjacent transcribed speech from the same speaker. 
