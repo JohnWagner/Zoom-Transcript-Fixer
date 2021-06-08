@@ -11,8 +11,10 @@ Please give credit if you decide to use it 😃!
 To run the .ipynb, you need to have Jupyter Notebook and Python 3.xx installed. I recommend using [Anaconda](https://www.anaconda.com/products/individual#Downloads) for this, as it will simplify the installation process. 
 
 In whatever distribution you choose to use, the following packages are required:
-* 
-* 
-* 
+* pandas for data management & manipulation
+* pathlib for file and directory interactions
+* docx for exporting word docs (.docx)
+* tqdm for progress bar for main loop
+* ipyfilechooser for browsing to file path (same for below two)
 
-Running the notebook chunk by chunk, 
+Running the notebook chunk by chunk, the process should explain itself.
