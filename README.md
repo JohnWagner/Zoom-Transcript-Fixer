@@ -16,6 +16,5 @@ In whatever distribution you choose to use, the following packages are required:
 * docx for exporting word docs (.docx)
 * tqdm for progress bar for main loop
 * ipyfilechooser for browsing to file path (same for below two)
-* 
 
 Running the notebook chunk by chunk, the process should explain itself.
