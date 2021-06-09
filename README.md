@@ -5,7 +5,7 @@ This repository contains a Jupyter Notebook that parses Zoom's self-generated au
 
 ## Disclaimer
 By using the files contained in this directory, you agree not to use them for monetary gain.
-Please give credit if you decide to use it 😃!
+Please give credit if you decide to use it either in its entirety or in part 😃!
 
 ## Required Software and Packages
 To run the .ipynb, you need to have Jupyter Notebook and Python 3.xx installed. I recommend using [Anaconda](https://www.anaconda.com/products/individual#Downloads) for this, as it will simplify the installation process. 
