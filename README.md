@@ -15,7 +15,8 @@ In whatever distribution you choose to use, the following packages are required:
 * pathlib for file and directory interactions
 * docx for exporting word docs (.docx)
 * tqdm for progress bar for main loop
-* ipyfilechooser for browsing to file path (same for below two)
+* ipyfilechooser for browsing to file path
+* ipywidgets for prompting user input on output formats
 
 Note this code was designed and built on Windows 10. I have no reason to believe it would not be executable on Mac or Linux, but there may be unforseen issues when doing so.
 
