@@ -21,4 +21,13 @@ Running the notebook chunk by chunk, the process should explain itself.
 
 ## Instructions
 If you have Jupyter Notebook and the required packages installed, then open the Jupyter Notebook file. 
-Run the file line-by-line. Python code-blocks 3 and 4 will allow you to select the directory where your existing transcripts reside, and select the directory where you would like the fixed transcripts output to. Code-block 5 will allow you to select your desired output format(s), either .txt or .docx. You may select both. Code-block 7 verifies that the provided folders exist. Lastly, code-block 11 is the main loop that fixes the transcripts. Note the provided progress bar at the bottom if many transcripts are being cleaned. After the execution of this final loop, the fixed transcripts should appear in your preferred formats in your selected destination folder.
+
+Run the file line-by-line. 
+
+Python code-blocks 3 and 4 will allow you to select the directory where your existing transcripts reside, and select the directory where you would like the fixed transcripts output to. 
+
+Code-block 5 will allow you to select your desired output format(s), either .txt or .docx. You may select both. 
+
+Code-block 7 verifies that the provided folders exist. 
+
+Lastly, code-block 11 is the main loop that fixes the transcripts. Note the provided progress bar at the bottom if many transcripts are being cleaned. After the execution of this final loop, the fixed transcripts should appear in your preferred formats in your selected destination folder.
