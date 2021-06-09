@@ -17,7 +17,7 @@ In whatever distribution you choose to use, the following packages are required:
 * tqdm for progress bar for main loop
 * ipyfilechooser for browsing to file path (same for below two)
 
-Running the notebook chunk by chunk, the process should explain itself.
+Note this code was designed and built on Windows 10. I have no reason to believe it would not be executable on Mac or Linux, but there may be unforseen issues when doing so.
 
 ## Instructions
 If you have Jupyter Notebook and the required packages installed, then open the Jupyter Notebook file. 
@@ -26,8 +26,8 @@ Run the file line-by-line.
 
 Python code-blocks 3 and 4 will allow you to select the directory where your existing transcripts reside, and select the directory where you would like the fixed transcripts output to. 
 
-Code-block 5 will allow you to select your desired output format(s), either .txt or .docx. You may select both. 
+Code-block 5 will allow you to select your desired output format(s), either .txt or .docx. You may select both. By default, .docx is selected. 
 
-Code-block 7 verifies that the provided folders exist. 
+Code-block 7 verifies that the provided folders exist. If an error occurs, please double check a valid folder is selected. 
 
 Lastly, code-block 11 is the main loop that fixes the transcripts. Note the provided progress bar at the bottom if many transcripts are being cleaned. After the execution of this final loop, the fixed transcripts should appear in your preferred formats in your selected destination folder.
